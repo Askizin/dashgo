@@ -72,6 +72,7 @@ export function Header() {
                 </Flex>
 
                 <Avatar size="md" name="Iury Barbosa" src="https://github.com/askizin.png"/>
+                
             </Flex>
         </Flex>
     );
